@@ -33,39 +33,35 @@ http://localhost:3000
 ### 四、项目页面展示
 **首页**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020021615062818.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
-
+<img scr="https://img-blog.csdnimg.cn/2020021615062818.png"/>
 **登录页面**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200216150727353.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
+<img scr="https://img-blog.csdnimg.cn/20200216150727353.png"/>
 
 **用户管理页面**
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200216150852370.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
+<img scr="https://img-blog.csdnimg.cn/20200216150852370.png"/>
 
 **用户新增/修改页面**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/2020021615112147.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
-
+<img scr="https://img-blog.csdnimg.cn/2020021615112147.png"/>
 **文章管理页面**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200216150949787.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
+<img scr="https://img-blog.csdnimg.cn/20200216150949787.png"/>
 
 **文章新增/修改页面**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200216151321622.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
+<img scr="https://img-blog.csdnimg.cn/20200216151321622.png"/>
 
 **文章评论**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200216151820888.png)
-
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200216151504898.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
+<img scr="https://img-blog.csdnimg.cn/20200216151820888.png"/>
 
 **退出登录（清除cookie、session）**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200216151557419.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
+<img scr="https://img-blog.csdnimg.cn/20200216151557419.png"/>
 
 **用户数据加密**
-![在这里插入图片描述](https://img-blog.csdnimg.cn/20200216152507268.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQ0NzIxODMx,size_16,color_FFFFFF,t_70)
+<img scr="https://img-blog.csdnimg.cn/20200216152507268.png"/>
 
 
 ### 结语
