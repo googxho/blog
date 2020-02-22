@@ -1,0 +1,26 @@
+
+<!-- 头部框架开始 -->
+<div class="header">
+	<div class="w1100">
+		<!-- 网站logo开始 -->
+		<h1 class="logo fl" style="width: 200px;">
+			<a href="/home/images/qq.jpg"><img style=" width: 60px;line-height: 60px; float: left;" src="/home/images/logo.png"  >
+			<p style=" width: 60px;line-height: 60px; float: left; text-align: center;height: 60px;" id="tu">SIXIA</p></a>
+			
+		</h1>
+		<p style=" width: 500px;line-height: 60px;text-align: center;float: left; color:#d1cfcf;font-size: 0.8rem; ">这个世界不会因为你而发生改变，那么，让我教你如何改变这个世界吧</p>
+		<!-- 网站logo结束 -->
+		<!-- 网站导航开始 {{user ?"/admin/user":"/admin/login"}}-->
+		<ul class="navigation fr">
+			<li>
+				<a href="/">首页</a>
+			</li>
+			<li>
+				<a href="/admin/login" >{{yan}}</a>
+			</li>
+		</ul>
+		<!-- 网站导航结束 -->
+	</div>
+</div>
+
+<!-- 头部框架结束 -->

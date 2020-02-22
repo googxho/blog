@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>首页</title>
+	<link rel="stylesheet" href="/home/css/footer.css">
+	<link rel="stylesheet" href="/home/css/base.css">
+	<link rel="stylesheet" href="/home/lib/bootstrat/css/bootstrat.min.css">
+	 <link rel="icon" href=" /home/images/3244.ico">
+	{{block 'link'}}{{/block}}
+</head>
+<body>
+	{{block 'main'}}{{/block}}
+
+	
+
+
+
+
+<div class="footer">
+        <img align="center" src="/home/images/备案图标.png"/>	
+		<a  target="_blank" href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51110202000293" >		
+		<p>川公网安备 51110202000293号</p></a>
+		<p>©蜀ICP备20001846号 &nbsp;&nbsp;&nbsp; 联系邮箱：gxh522@qq.com</p>
+</div>
+
+</body>
+</html>
